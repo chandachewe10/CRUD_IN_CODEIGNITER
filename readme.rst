@@ -1,4 +1,4 @@
-#CRUD 
+# CRUD 
 A CodeIgniter CRUD application is one that uses forms to get data into and out of a database. This involves Creating data in the database, Reading data in the database, Updating data in the database and Deleting data in the database. Hence we can see clearly see that CRUD is an acronym for the four basic operations: Create, Read, Update, Delete. Most applications have some kind of CRUD functionality, and I can assume that every programmer had to deal with CRUD at some point hence necessary to practice CRUD in a new programming langauage you have started learning.
 
 
